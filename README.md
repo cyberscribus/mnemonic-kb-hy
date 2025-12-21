@@ -192,8 +192,6 @@ Windows և Linux ՕՀ-երում `AltGr` ստեղնը ([Alt Graph](https://en.wi
 | [2120](https://unicode-table.com/ru/2120)   | ℠  | սպասարկման նշան |   `AltGr`+`Shift`+`S` |
 | [00aa](https://unicode-table.com/ru/00aa)   | ª   | դասական թվականի ցուցիչ (իգական)  |   `AltGr`+`A` |
 | [00ba](https://unicode-table.com/ru/00ba)   | º   | դասական թվականի ցուցիչ (արական)  |   `AltGr`+`O` |
-| [058e](https://unicode-table.com/ru/058e)   | ֎   | հայկական հավերժության նշան (ձախ) |  `AltGr`+`H` |
-| [058d](https://unicode-table.com/ru/058d)   | ֍   | հայկական հավերժության նշան (աջ)  |  `AltGr`+`Shift`+`H` |
 
 [^pativ]: Հնում հայ մատենագրության մեջ դրվել է համառոտագրված բառերի վրա։
 
